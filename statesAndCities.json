@@ -1,0 +1,428 @@
+[
+    {
+        "state": {
+            "name": "Abia",
+            "id": 1,
+            "cities": [
+                { "name": "Aba", "id": 11 },
+                { "name": "Arochukwu", "id": 12 },
+                { "name": "Umuahia", "id": 13 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Adamawa",
+            "id": 2,
+            "cities": [
+                { "name": "Jimeta", "id": 21 },
+                { "name": "Mubi", "id": 22 },
+                { "name": "Numan", "id": 23 },
+                { "name": "Yola", "id": 24 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Akwa Ibom",
+            "id": 3,
+            "cities": [
+                { "name": "Ikot Abasi", "id": 31 },
+                { "name": "Ikot Ekpene", "id": 32 },
+                { "name": "Oron", "id": 33 },
+                { "name": "Uyo", "id": 34 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Anambra",
+            "id": 4,
+            "cities": [
+                { "name": "Awka", "id": 41 },
+                { "name": "Onitsha", "id": 42 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Bauchi",
+            "id": 5,
+            "cities": [
+                { "name": "Azare", "id": 51 },
+                { "name": "Bauchi", "id": 52 },
+                { "name": "Jama′are", "id": 53 },
+                { "name": "Katagum", "id": 54 },
+                { "name": "Misau", "id": 55 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Bayelsa",
+            "id": 6,
+            "cities": [
+                { "name": "Brass", "id": 61 },
+                { "name": "Yenagoa", "id": 62 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Benue",
+            "id": 7,
+            "cities": [
+                { "name": "Makurdi", "id": 71 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Borno",
+            "id": 8,
+            "cities": [
+                { "name": "Biu", "id": 81 },
+                { "name": "Dikwa", "id": 82 },
+                { "name": "Maiduguri", "id": 83 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Cross River",
+            "id": 9,
+            "cities": [
+                { "name": "Calabar", "id": 91 },
+                { "name": "Ogoja", "id": 92 }
+            ]
+        }
+    },
+
+    {
+        "state": {
+            "name": "Delta ",
+            "id": 10,
+            "cities": [
+                { "name": "Asaba", "id": 101 },
+                { "name": "Burutu", "id": 102 },
+                { "name": "Koko", "id": 103 },
+                { "name": "Sapele", "id": 104 },
+                { "name": "Ughelli", "id": 105 },
+                { "name": "Warri", "id": 106 }
+            ]
+        }
+    },
+
+    {
+        "state": {
+            "name": "Ebonyi",
+            "id": 11,
+            "cities": [
+                { "name": "Abakaliki", "id": 111 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Edo",
+            "id": 12,
+            "cities": [
+                { "name": "Benin City", "id": 121 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Ekiti",
+            "id": 13,
+            "cities": [
+                { "name": "Ado-Ekiti", "id": 131 },
+                { "name": "Effon-Alaiye", "id": 132 },
+                { "name": "Ikere-Ekiti", "id": 133 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Enugu ",
+            "id": 14,
+            "cities": [
+                { "name": "Enugu", "id": 141 },
+                { "name": "Nsukka", "id": 142 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Federal Capital Territory",
+            "id": 15,
+            "cities": [
+                { "name": "Abuja", "id": 151 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Gombe",
+            "id": 16,
+            "cities": [
+                { "name": "Deba Habe", "id": 161 },
+                { "name": "Gombe", "id": 162 },
+                { "name": "Kumo", "id": 163 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Imo",
+            "id": 17,
+            "cities": [
+                { "name": "Owerri", "id": 171 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Jigawa",
+            "id": 18,
+            "cities": [
+                { "name": "Birnin Kudu", "id": 181 },
+                { "name": "Dutse", "id": 182 },
+                { "name": "Gumel", "id": 183 },
+                { "name": "Hadejia", "id": 184 },
+                { "name": "Kazaure", "id": 185 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Kaduna",
+            "id": 19,
+            "cities": [
+                { "name": "Jemaa", "id": 191 },
+                { "name": "Kaduna", "id": 192 },
+                { "name": "Zaria", "id": 193 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Kano ",
+            "id": 20,
+            "cities": [
+                { "name": "Kano", "id": 201 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Katsina",
+            "id": 21,
+            "cities": [
+                { "name": "Daura", "id": 211 },
+                { "name": "Katsina", "id": 212 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Kebbi",
+            "id": 22,
+            "cities": [
+                { "name": "Argungu", "id": 221 },
+                { "name": "Birnin Kebbie", "id": 222 },
+                { "name": "Gwandu", "id": 223 },
+                { "name": "Yelwa", "id": 224 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Kogi",
+            "id": 23,
+            "cities": [
+                { "name": "Idah", "id": 231 },
+                { "name": "Kabba", "id": 232 },
+                { "name": "Lokoja", "id": 233 },
+                { "name": "Okene", "id": 234 }
+            ]
+        }
+    },
+
+    {
+        "state": {
+            "name": "Kwara",
+            "id": 24,
+            "cities": [
+                { "name": "Ilorin", "id": 241 },
+                { "name": "Jebba", "id": 242 },
+                { "name": "Lafiagi", "id": 243 },
+                { "name": "Offa", "id": 244 },
+                { "name": "Pategi", "id": 245 }
+            ]
+        }
+    },
+
+    {
+        "state": {
+            "name": "Lagos",
+            "id": 25,
+            "cities": [
+                { "name": "Badagry", "id": 251 },
+                { "name": "Epe", "id": 252 },
+                { "name": "Ikeja", "id": 253 },
+                { "name": "Ikorodu", "id": 254 },
+                { "name": "Lagos", "id": 255 },
+                { "name": "Mushin", "id": 256 },
+                { "name": "Shomolu", "id": 257 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Nasarawa",
+            "id": 26,
+            "cities": [
+                { "name": "Keffi", "id": 261 },
+                { "name": "Lafia", "id": 262 },
+                { "name": "Nasarawa", "id": 263 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Niger",
+            "id": 27,
+            "cities": [
+                { "name": "Agaie", "id": 271 },
+                { "name": "Baro", "id": 272 },
+                { "name": "Bida", "id": 273 },
+                { "name": "Kontagora", "id": 274 },
+                { "name": "Lapai", "id": 275 },
+                { "name": "Minna", "id": 276 },
+                { "name": "Suleja", "id": 277 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Ogun",
+            "id": 28,
+            "cities": [
+                { "name": "Abeokuta", "id": 281 },
+                { "name": "Ijebu-Ode", "id": 282 },
+                { "name": "Ilaro", "id": 283 },
+                { "name": "Shagamu", "id": 284 },
+                { "name": "Lapai", "id": 285 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Ondo",
+            "id": 29,
+            "cities": [
+                { "name": "Akure", "id": 291 },
+                { "name": "Ikare", "id": 292 },
+                { "name": "Oka-Akoko", "id": 293 },
+                { "name": "Ondo", "id": 294 },
+                { "name": "Owo", "id": 295 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Osun",
+            "id": 30,
+            "cities": [
+                { "name": "Ede", "id": 301 },
+                { "name": "Ikire", "id": 302 },
+                { "name": "Ikirun", "id": 303 },
+                { "name": "Ila", "id": 304 },
+                { "name": "Ile-Ife", "id": 305 },
+                { "name": "Ilesha", "id": 306 },
+                { "name": "Ilobu", "id": 307 },
+                { "name": "Inisa", "id": 308 },
+                { "name": "Iwo", "id": 309 },
+                { "name": "Oshogbo", "id": 310 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Oyo",
+            "id": 31,
+            "cities": [
+                { "name": "Ibadan", "id": 311 },
+                { "name": "Iseyin", "id": 312 },
+                { "name": "Ogbomosho", "id": 313 },
+                { "name": "Oyo", "id": 314 },
+                { "name": "Saki", "id": 315 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Plateau",
+            "id": 32,
+            "cities": [
+                { "name": "Bukuru", "id": 321 },
+                { "name": "Jos", "id": 322 },
+                { "name": "Vom", "id": 323 },
+                { "name": "Wase", "id": 324 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Rivers",
+            "id": 33,
+            "cities": [
+                { "name": "Bonny", "id": 331 },
+                { "name": "Degema", "id": 332 },
+                { "name": "Okrika", "id": 333 },
+                { "name": "Port Harcourt", "id": 334 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Sokoto",
+            "id": 34,
+            "cities": [
+                { "name": "Sokoto", "id": 341 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Taraba",
+            "id": 35,
+            "cities": [
+                { "name": "Ibi", "id": 351 },
+                { "name": "Jalingo", "id": 352 },
+                { "name": "Muri", "id": 353 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Yobe",
+            "id": 36,
+            "cities": [
+                { "name": "Damaturu", "id": 361 },
+                { "name": "Nguru", "id": 362 }
+            ]
+        }
+    },
+    {
+        "state": {
+            "name": "Zamfara ",
+            "id": 37,
+            "cities": [
+                { "name": "Gusau", "id": 371 },
+                { "name": "Kaura Namoda", "id": 372 }
+            ]
+        }
+    }
+]
