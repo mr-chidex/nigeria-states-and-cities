@@ -4,6 +4,8 @@
 Array List of all Nigerian states and their cities with unique id's
 ```
 
+- Hope it saves your time :grin: \*
+
 ```
 [
     {
